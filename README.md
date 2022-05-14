@@ -1,2 +1,2 @@
-# CustomCursors
-Varios Modelos de cursores gratis y bonitos.
+# Custom Cursors - By Mordoo
+<><>
