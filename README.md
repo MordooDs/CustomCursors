@@ -1,3 +1,3 @@
 # Custom Cursors - By Mordoo
 
-![](Imágenes/Únete%al%discord.png)
+![Únete al discord](Imágenes/Únete%al%discord.png)
