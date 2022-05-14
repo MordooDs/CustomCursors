@@ -4,6 +4,8 @@ Primero de todo, en caso de que necesites ayuda, o quieras información acerca d
 
 <a href="https://discord.gg/5J3eTpmhEH"><img src="https://raw.githubusercontent.com/MordooDs/CustomCursors/main/Im%C3%A1genes/%C3%9Anete%20al%20discord.png" alt="GitHub download" width="142"></a>
 
+<a href="https://discord.gg/5J3eTpmhEH"><img src="https://raw.githubusercontent.com/MordooDs/CustomCursors/main/Im%C3%A1genes/%C3%9Anete%20al%20discord.png" alt="GitHub download" width="142"></a>
+
 # Cursor Concept V2
 
 <a href="https://github.com/MordooDs/CustomCursors/blob/main/Im%C3%A1genes/PreviewConcept.png?raw=true"><img src="https://github.com/MordooDs/CustomCursors/blob/main/Im%C3%A1genes/PreviewConcept.png?raw=true" alt="GitHub download" width="500"></a>
