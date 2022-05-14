@@ -15,4 +15,11 @@ Este tema de cursor se basa en la parte minimalista que nunca vemos, el creador 
 
 # Material XVX
 
-<a href="https://github.com/MordooDs/CustomCursors/blob/main/Im%C3%A1genes/PreviewConcept.png?raw=true"><img src="https://github.com/MordooDs/CustomCursors/blob/main/Im%C3%A1genes/PreviewConcept.png?raw=true" alt="GitHub download" width="500"></a>
+<a href="https://github.com/MordooDs/CustomCursors/blob/main/Im%C3%A1genes/Material%20x-V-x-Preview.jpg?raw=true"><img src="https://github.com/MordooDs/CustomCursors/blob/main/Im%C3%A1genes/Material%20x-V-x-Preview.jpg?raw=true" alt="GitHub download" width="500"></a>
+
+Este tema es similar al anterior. Solo que más detallado y perfecto para un usuario casual. Su creador es Mordoo
+
+- Enlace: https://www.mediafire.com/file/6iylin7f8octy1a/Material_x-V-x_Cursors_-_By_Mordoo.rar/file
+- Contraseña: Mordoo
+
+# VS Candy
