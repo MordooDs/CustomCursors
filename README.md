@@ -24,7 +24,7 @@ Este tema es similar al anterior. Solo que más detallado y perfecto 🕶️ par
 
 # VS Candy
 
-<a href="https://github.com/MordooDs/CustomCursors/blob/main/Im%C3%A1genes/PreviewCandy.png?raw=true"><img src="hhttps://github.com/MordooDs/CustomCursors/blob/main/Im%C3%A1genes/PreviewCandy.png?raw=true" alt="GitHub download" width="500"></a>
+<a href="https://github.com/MordooDs/CustomCursors/blob/main/Im%C3%A1genes/PreviewCandy.png?raw=true"><img src="https://github.com/MordooDs/CustomCursors/blob/main/Im%C3%A1genes/PreviewCandy.png?raw=true" alt="GitHub download" width="500"></a>
 
 Un cursor pixelado, con detalles acaramelados. Una delicia 🤤. De nuevo el creador es Mordoo
 
